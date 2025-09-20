@@ -42,15 +42,6 @@ streamlit run src/app.py
 
 ---
 
-## 🔧 System Pipeline
-
-```mermaid
-graph LR
-A[Input Image] --> B[YOLO Detection (Face Bounding)]
-B --> C[Siamese Network (Face Matching)]
-C --> D[Attendance Log]
-```
-
 **How it works:**
 
 1. **Face Detection (YOLO):** Detects faces in images or video.
