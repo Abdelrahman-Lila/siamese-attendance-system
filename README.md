@@ -1,4 +1,4 @@
-# siamese-attendance-system# 📝 Siamese Attendance System
+# 📝 Siamese Attendance System
 
 ## 📌 Project Overview
 
